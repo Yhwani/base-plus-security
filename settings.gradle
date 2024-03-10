@@ -1,0 +1,4 @@
+rootProject.name = 'base-plus-security'
+
+include ':spring-module-base'
+include ':spring-module-security'
